@@ -1,0 +1,15 @@
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico1\EjercicioPractico1\bin\Debug\EjercicioPractico1.exe
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico1\EjercicioPractico1\bin\Debug\EjercicioPractico1.pdb
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico1\EjercicioPractico1\obj\Debug\EjercicioPractico1.csproj.AssemblyReference.cache
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico1\EjercicioPractico1\obj\Debug\EjercicioPractico1.Form1.resources
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico1\EjercicioPractico1\obj\Debug\EjercicioPractico1.Properties.Resources.resources
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico1\EjercicioPractico1\obj\Debug\EjercicioPractico1.csproj.GenerateResource.cache
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico1\EjercicioPractico1\obj\Debug\EjercicioPractico1.csproj.CoreCompileInputs.cache
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico1\EjercicioPractico1\obj\Debug\EjercicioPractico1.exe
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico1\EjercicioPractico1\obj\Debug\EjercicioPractico1.pdb
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico1\EjercicioPractico1\obj\Debug\EjercicioPractico1.PersonDataForm.resources
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico1\EjercicioPractico1\bin\Debug\aa\EjercicioPractico1.resources.dll
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico1\EjercicioPractico1\obj\Debug\EjercicioPractico1.Form1.aa.resources
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico1\EjercicioPractico1\obj\Debug\aa\EjercicioPractico1.resources.dll
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico1\EjercicioPractico1\obj\Debug\EjercicioPractico1.messageDialog.resources
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico1\EjercicioPractico1\obj\Debug\EjercicioPractico1.DeleteDialog.resources
