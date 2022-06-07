@@ -1,0 +1,14 @@
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico2Agroquimicos\bin\Debug\EjercicioPractico2Agroquimicos.exe.config
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico2Agroquimicos\bin\Debug\EjercicioPractico2Agroquimicos.exe
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico2Agroquimicos\bin\Debug\EjercicioPractico2Agroquimicos.pdb
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico2Agroquimicos\obj\Debug\EjercicioPractico2Agroquimicos.csproj.AssemblyReference.cache
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico2Agroquimicos\obj\Debug\EjercicioPractico2Agroquimicos.csproj.SuggestedBindingRedirects.cache
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico2Agroquimicos\obj\Debug\EjercicioPractico2Agroquimicos.Properties.Resources.resources
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico2Agroquimicos\obj\Debug\EjercicioPractico2Agroquimicos.csproj.GenerateResource.cache
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico2Agroquimicos\obj\Debug\EjercicioPractico2Agroquimicos.csproj.CoreCompileInputs.cache
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico2Agroquimicos\obj\Debug\EjercicioPractico2Agroquimicos.exe
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico2Agroquimicos\obj\Debug\EjercicioPractico2Agroquimicos.pdb
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico2Agroquimicos\obj\Debug\EjercicioPractico2Agroquimicos.MainForm.resources
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico2Agroquimicos\obj\Debug\EjercicioPractico2Agroquimicos.AgrochemicalDataForm.resources
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico2Agroquimicos\obj\Debug\EjercicioPractico2Agroquimicos.DeleteDialog.resources
+C:\Multimedia\ESTUDIOS UAE\QUINTO AÑO\DECIMO SEMESTRE\TITULACIÓN 2\PROGRAMACIÓN\Ejercicios practicos de C#\EjercicioPractico2Agroquimicos\obj\Debug\EjercicioPractico2Agroquimicos.MessageDialog.resources
